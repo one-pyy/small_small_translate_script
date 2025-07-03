@@ -1,0 +1,2 @@
+# small_small_translate_script
+小小的docs翻译脚本
